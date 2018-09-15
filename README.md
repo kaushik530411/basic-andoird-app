@@ -4,7 +4,8 @@
 A basic android that displays a text on the screen of one's phone and allows to change the color of the text.
 
 ### App Walk-though
-<img src="http://recordit.co/eej7QjPv3J" width=200><br>
+<img src="https://user-images.githubusercontent.com/31221633/45591136-2a4ee500-b917-11e8-8092-31e800742858.gif" width=200><br>
+
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
