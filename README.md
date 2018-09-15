@@ -1,4 +1,4 @@
-### HelloKaushik
+## HelloKaushik
 
 ### App Description
 A basic android that displays a text on the screen of one's phone and allows to change the color of the text.
